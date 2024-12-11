@@ -82,3 +82,7 @@ B는 그것을 받아 자기 자신만 알고 있는 비밀키로 풀게 되면,
 
 본 프로젝트도 이 수업을 들으며 영감을 얻었습니다.  
 하지만, 쓰레드에 대한 문제로 잘 작동하지 않았는데, 시간이 되면 tkinter를 이용해 gui도 만들어 보겠습니다.
+
+## License
+
+This project is licensed under the GPL v2.0 License
